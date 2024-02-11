@@ -27,10 +27,11 @@ export default function PageTwoComponent() {
 
     return (
 
+
         <div className="bg-[#6B866C] py-[1px]">
             <div
                 className="rounded-2xl m-[25px] lg:m-[50px] bg-white border-solid border-black border-[3px] lg:border-[5px]  min-h-[222px] lg:min-h-[495px] flex justify-center items-center">
-                <p id="p2Text" className="lg:text-[100px] text-[20px]">{name == "" ? "please enter your name" : result}</p>
+                <p id="p2Text" className="lg:text-[100px] text-[20px]">{result == "" ? "please enter your name" : result}</p>
 
             </div>
             <div className="px-[25px] lg:px-[50px] lg:py-[50px]  ">

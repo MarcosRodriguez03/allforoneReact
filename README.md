@@ -5,7 +5,7 @@ i remade my all for one with react components
 # Peer Reviewer: Caleb Sylvia
 # Peer Review: Site is super clean and responsive only a couple issues. On the say Hello I enter in my name then press enter and the enter button and it still ask to input my name but when I go to retype my name it responds. The second one is the background color only spans the div of the component rather than the whole screen leaving it with a bunch of white space on the bottom. Other than those two everything works as it should and looks really nice. Great job!
 
-# review fixes
+#  review fixes
 I fixed the say hello assignment. The color does take up the whole page it only has white space when its in inspect element and theres excess space.
 
 
